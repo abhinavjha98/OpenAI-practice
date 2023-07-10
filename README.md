@@ -1,1 +1,1 @@
-Open AI Practice code
+LLM code
